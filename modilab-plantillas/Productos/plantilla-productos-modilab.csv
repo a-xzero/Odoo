@@ -1,0 +1,444 @@
+name,uom_po_id,uom_id,sale_ok,purchase_ok,can_be_expensed,type,categ_id,list_price,standard_price,route_ids,supplier_taxes_id,taxes_id
+Modilab Profucto Plantilla,Paquete,Kit,True,True,True,Almacenable,All,270,150,Comprar,,IVA
+Modilab Profucto Plantilla #2,Kit,Paquete,True,True,False,Almacenable,All,270,10,,,IVA
+Plantilla#2 Producto,Paquete,Kit,True,True,False,Servicio,Coagulacion,0,1230,Comprar,IVA por cobrar,IVA
+Asa Descartable 1ul 20U,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Bacteriología,13.39,7.79,Comprar,IVA,IVA
+Asa En Punta No Calibrada,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Bacteriología,62.5,35.7,Comprar,IVA,IVA
+Caja Petri 90x15mm 10U,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,13.39,6.45,Comprar,IVA,IVA
+Caja Petri 90x15mm Unidad,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,1.47,0.97,Comprar,IVA,IVA
+Disco Acido Nalidixico 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.67,Comprar,IVA,IVA
+Disco Amikacina 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.73,Comprar,IVA,IVA
+Disco Amoxicilina 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.73,Comprar,IVA,IVA
+Disco Amoxiclav (Amoxicilina Acido Clavulanico) 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.75,Comprar,IVA,IVA
+Disco Ampicilina 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.7,Comprar,IVA,IVA
+Disco Ampicilina Sulbactam 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.72,Comprar,IVA,IVA
+Disco Azitromicina 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.73,Comprar,IVA,IVA
+Disco Aztreonam 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.73,Comprar,IVA,IVA
+Disco Cefaclor 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.7,Comprar,IVA,IVA
+Disco Cefadroxilo 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.73,Comprar,IVA,IVA
+Disco Cefalotina 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.73,Comprar,IVA,IVA
+Disco Cefepime 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.73,Comprar,IVA,IVA
+Disco Cefixime 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.73,Comprar,IVA,IVA
+Disco Cefotaxime 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.72,Comprar,IVA,IVA
+Disco Cefoxitin 50U,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,40.18,26.79,Comprar,IVA,IVA
+Disco Ceftazidime 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.73,Comprar,IVA,IVA
+Disco Ceftriaxona 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.72,Comprar,IVA,IVA
+Disco Cefuroxime 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.72,Comprar,IVA,IVA
+Disco Ciprofloxacina 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.74,Comprar,IVA,IVA
+Disco Claritromicina 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.73,Comprar,IVA,IVA
+Disco Clindamicina 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.73,Comprar,IVA,IVA
+Disco Cloranfenicol 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.73,Comprar,IVA,IVA
+Disco Eritromicina 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.73,Comprar,IVA,IVA
+Disco Ertapenem 50U Biogram,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Bacteriología,31.25,21.21,Comprar,IVA,IVA
+Disco Fosfomicina 50U Biogram,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.73,Comprar,IVA,IVA
+Disco Gentamicina 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.7,Comprar,IVA,IVA
+Disco Imipenem 50U,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,49.11,31.25,Comprar,IVA,IVA
+Disco Kanamicina 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.73,Comprar,IVA,IVA
+Disco Levofloxacina 50U,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,40.18,26.79,Comprar,IVA,IVA
+Disco Levofloxacina 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.73,Comprar,IVA,IVA
+Disco Meropenem 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,17.42,Comprar,IVA,IVA
+Disco Moxifloxacina 50U,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,44.64,26.79,Comprar,IVA,IVA
+Disco Moxifloxacina 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.73,Comprar,IVA,IVA
+Disco Nitrofurantoina 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.7,Comprar,IVA,IVA
+Disco Norfloxacina 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.69,Comprar,IVA,IVA
+Disco Ofloxacina 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.73,Comprar,IVA,IVA
+Disco Oxacilina 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.73,Comprar,IVA,IVA
+Disco Penicilina 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.73,Comprar,IVA,IVA
+Disco Piperacilina 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,31.25,20.09,Comprar,IVA,IVA
+Disco Tetraciclina 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.69,Comprar,IVA,IVA
+Disco Ticarcilina 50U,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,40.18,26.79,Comprar,IVA,IVA
+Disco Trimetroprim Sulfa 50U Biogram,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Bacteriología,25,14.73,Comprar,IVA,IVA
+Disco Vancomicina 50U Biogram,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Bacteriología,32.14,20.97,Comprar,IVA,IVA
+Hemocultivo Adulto 50ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Bacteriología,40.18,13.75,Comprar,IVA,IVA
+Hemocultivo Pediatrico 5ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Bacteriología,40.18,4.46,Comprar,IVA,IVA
+Mechero Alcohol 65ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Bacteriología,116.07,53.56,Comprar,IVA,IVA
+Medio de Transporte Amies Con Carbon,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Bacteriología,5.8,3.71,Comprar,IVA,IVA
+Medio de Transporte Amies Sin Carbon,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Bacteriología,5.36,3.26,Comprar,IVA,IVA
+Cloruro de Calcio 15ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Coagulacion,84.82,52.34,Comprar,IVA,IVA
+TP 4ml Biomedica,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Coagulacion,44.64,26.1,Comprar,IVA,IVA
+TP 4ml Siemens,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Coagulacion,80.36,52.9,Comprar,IVA,IVA
+TPT 2ml Siemens,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Coagulacion,51.79,33.75,Comprar,IVA,IVA
+TPT 4ml Biomedica,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Coagulacion,44.64,26.79,Comprar,IVA,IVA
+Camara Neubauer,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Cristalería,263.39,138.39,Comprar,IVA,IVA
+Capilar Azul 100U,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Cristalería,25,13.8,Comprar,IVA,IVA
+Capilar Rojo 100U,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Cristalería,26.79,14.86,Comprar,IVA,IVA
+Copa de Tincion,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Cristalería,40.18,25,Comprar,IVA,IVA
+Cubre Camaras,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Cristalería,14.29,8.72,Comprar,IVA,IVA
+Cubre Objeto Premier 22x22mm 1 onza,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Cristalería,16.07,6.47,Comprar,IVA,IVA
+Pipeta de Blancos,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Cristalería,40.18,26.41,Comprar,IVA,IVA
+Pipeta de Rojos,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Cristalería,42.86,28.97,Comprar,IVA,IVA
+Pipeta Takive con Tira Vidrio,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Cristalería,2.77,1.64,Comprar,IVA,IVA
+Placa V.D.R.L.,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Cristalería,232.14,151.79,Comprar,IVA,IVA
+Porta Objeto 50U Brand Con Bordes Alizados,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Cristalería,66.96,43.29,Comprar,IVA,IVA
+Porta Objetos 50U,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Cristalería,13.39,6.41,Comprar,IVA,IVA
+Termometro -20 a +150 C,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Cristalería,26.79,8.93,Comprar,IVA,IVA
+Tubo Ensayo 12 x 75 mm,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Cristalería,1.34,0.52,Comprar,IVA,IVA
+Alcohol Prepad 100U,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Descartable,12.5,4.12,Comprar,IVA,IVA
+Alcohol Prepad 200U,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,22.32,12.5,Comprar,IVA,IVA
+Algodon en Torundas 1000U,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Descartable,67.86,41.07,Comprar,IVA,IVA
+Algodon Libra,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,38.39,24.34,Comprar,IVA,IVA
+Aplicador de Madera 1000U,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Descartable,53.57,26.27,Comprar,IVA,IVA
+Asa descartable Pack 10u 1ul,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Descartable,8.04,2.68,Comprar,IVA,IVA
+Baja Lenguas 100U,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Descartable,13.39,7.81,Comprar,IVA,IVA
+Baja Lenguas Esteril 100U,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Descartable,40.18,17.05,Comprar,IVA,IVA
+Bolsa de Orina Pediatrica Unisex KX,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,1.79,0.67,Comprar,IVA,IVA
+Bolsa de Orina Pediatrica Unisex Viamed,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,1.79,0.77,Comprar,IVA,IVA
+Bolsa de Sangre 10U,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Descartable,321.43,208.93,Comprar,IVA,IVA
+Bolsa Roja Desechos Grande,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,2.68,1.65,Comprar,IVA,IVA
+Bolsa Roja Desechos Mediana,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,4.02,2.68,Comprar,IVA,IVA
+Bolsa Roja Desechos Pequeña,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,3.35,2.19,Comprar,IVA,IVA
+Contenedor Esteril 120ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,1.79,0.55,Comprar,IVA,IVA
+Contenedor esteril 60ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,1.34,0.71,Comprar,IVA,IVA
+Contenedor Orina 24horas,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,28.57,16.76,Comprar,IVA,IVA
+Contenedor para Heces con Paleta,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,0.89,0.45,Comprar,IVA,IVA
+Contenedor para muestra 50ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,1.16,0.71,Comprar,IVA,IVA
+Contenedor para muestra 60ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,1.07,0.62,Comprar,IVA,IVA
+Curita con Figuras 50U,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Descartable,32.14,17.86,Comprar,IVA,IVA
+Curita Rectangular 100U,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Descartable,17.86,9.33,Comprar,IVA,IVA
+Curita Redonda 100U,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Descartable,18.75,11.49,Comprar,IVA,IVA
+Descartador Punzocortantes 13 Litros,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,75.89,49.11,Comprar,IVA,IVA
+Descartador Punzocortantes 1 Litros,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,22.32,14.29,Comprar,IVA,IVA
+Descartador Punzocortantes 2 Litros,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,44.64,22.32,Comprar,IVA,IVA
+Descartador Punzocortantes 30 Litros,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,165.18,107.14,Comprar,IVA,IVA
+Descartador Punzocortantes 4 Litros,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,60.71,39.35,Comprar,IVA,IVA
+Descartador Punzocortantes 5 Litros,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,66.96,42.86,Comprar,IVA,IVA
+Descartador Punzocortantes 8 Litros,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,66.96,45.02,Comprar,IVA,IVA
+Equipo para Transfusion,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,8.04,5.06,Comprar,IVA,IVA
+Especulo Grande,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,4.46,2.6,Comprar,IVA,IVA
+Especulo Mediano,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,4.02,2.54,Comprar,IVA,IVA
+Especulo Pequeño,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,4.02,2.57,Comprar,IVA,IVA
+Guante Esteril #6 1/2,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Descartable,165.18,92.62,Comprar,IVA,IVA
+Guante Esteril #7,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Descartable,165.18,92.62,Comprar,IVA,IVA
+Guante Latex Color Pequeño,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Descartable,58.04,31.4,Comprar,IVA,IVA
+Guante Latex Extra Pequeño Confort,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Descartable,49.11,25.45,Comprar,IVA,IVA
+Guante Latex Extra Pequeño Sin Polvo,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Descartable,58.04,33.5,Comprar,IVA,IVA
+Guante Latex Grande Confort,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Descartable,49.11,23.2,Comprar,IVA,IVA
+Guante Latex Grande Dermaflex,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Descartable,40.18,22.89,Comprar,IVA,IVA
+Guante Latex Mediano Confort,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Descartable,49.11,24.36,Comprar,IVA,IVA
+Guante Latex Mediano Dermaflex,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Descartable,40.18,21.55,Comprar,IVA,IVA
+Guante Latex Mentolado Mediano,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Descartable,58.04,35.92,Comprar,IVA,IVA
+Guante Latex Pequeño Confort,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Descartable,49.11,25.45,Comprar,IVA,IVA
+Guante Latex Pequeño Dermaflex,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Descartable,40.18,21.61,Comprar,IVA,IVA
+Guante Nitrilo Mediano,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Descartable,53.57,29.61,Comprar,IVA,IVA
+Guante Nitrilo Pequeño,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,53.57,29.61,Comprar,IVA,IVA
+Guante Vinil Pequeño,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,53.57,32.87,Comprar,IVA,IVA
+Hisopo Esteril,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,0.89,0.36,Comprar,IVA,IVA
+Hisopo no Esteril 100U,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Descartable,8.04,3.36,Comprar,IVA,IVA
+Ligadura Plana sin Latex,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,3.57,1.86,Comprar,IVA,IVA
+Mascarilla 4 Pitas,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,1.79,0.7,Comprar,IVA,IVA
+Mascarilla Tipo Cono,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,1.79,0.62,Comprar,IVA,IVA
+Microplaca de 96 Pozos BRAND,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Descartable,6.7,4.24,Comprar,IVA,IVA
+Microtubo 1.5ml 500U,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Descartable,151.79,44.61,Comprar,IVA,IVA
+Microtubo BRAND 500U,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Descartable,120.54,72.77,Comprar,IVA,IVA
+Organizador Acrilico Triple,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,267.86,161.16,Comprar,IVA,IVA
+Pañal Adulto Predoblado 10U,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Descartable,58.04,36.61,Comprar,IVA,IVA
+Papel Limpia Lentes 50U,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,15.18,6.17,Comprar,IVA,IVA
+Papel Para Cama Bovina 18p,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,110.71,61.38,Comprar,IVA,IVA
+Papel pH Rollo 15 pies x 5 cm,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,93.75,62.35,Comprar,IVA,IVA
+Papel Termico 2 1/4p,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,13.39,3.78,Comprar,IVA,IVA
+"Parafilm 4"" x 10 pies",Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,35.71,16.74,Comprar,IVA,IVA
+Pipeta Transferencia 0.5ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,0.49,0.21,Comprar,IVA,IVA
+Pipeta Transferencia 3ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,0.49,0.21,Comprar,IVA,IVA
+Plasticina Selladora,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,53.57,24.08,Comprar,IVA,IVA
+Rotulo PVC,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,33.93,20.54,Comprar,IVA,IVA
+Sello Heparina,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,1.79,1.1,Comprar,IVA,IVA
+Sonda Alimentacion #5,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,2.68,1.12,Comprar,IVA,IVA
+Sonda Alimentacion #8,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,2.68,1.14,Comprar,IVA,IVA
+Tip Amarillo Brand 1000U,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Descartable,116.07,73.44,Comprar,IVA,IVA
+Tip Azul 500U,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Descartable,62.5,37.05,Comprar,IVA,IVA
+Tip Azul Brand 500U,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Descartable,80.36,42.19,Comprar,IVA,IVA
+Tip Blanco 1000U,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Descartable,366.07,241.96,Comprar,IVA,IVA
+Tubo Conico 12ml Poliestireno,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,1.12,0.62,Comprar,IVA,IVA
+Tubo Conico Graduado 15ml P.,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Descartable,1.61,0.76,Comprar,IVA,IVA
+Analizador Quantitativo Inmunofluorescencia Getein 1100,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Equipo,8928.57,5000,Comprar,IVA,IVA
+Analizador Quimica Clinica Urit 880,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Equipo,16517.86,8928.57,Comprar,IVA,IVA
+Campana Bacteriologica,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Equipo,2767.86,1368.42,Comprar,IVA,IVA
+Centrifuga Gemmy PLC-03,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Equipo,3214.29,1964.29,Comprar,IVA,IVA
+Centrifuga LW Scientific 8 Tubos,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Equipo,3482.14,2142.86,Comprar,IVA,IVA
+Contador Hematologico Urit 2900 Plus,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Equipo,41964.29,22332.13,Comprar,IVA,IVA
+Incubadora Para Bactereologia,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Equipo,3883.93,2500,Comprar,IVA,IVA
+Lipidpro,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Equipo,2232.14,1467.85,Comprar,IVA,IVA
+Mezclador de Tubos Einheit 161-A,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Equipo,2053.57,1125,Comprar,IVA,IVA
+Microscopio Binocular,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Equipo,4375,2410.71,Comprar,IVA,IVA
+Quo-Lab Equipo,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Equipo,12053.57,7285.72,Comprar,IVA,IVA
+Uritrack,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Equipo,5089.29,3125,Comprar,IVA,IVA
+Vortex 7 Tubos Heathrow,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Equipo,3125,1666.44,Comprar,IVA,IVA
+Aguja Hipodermica 18 x 1.5,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Extraccion,26.79,16.07,Comprar,IVA,IVA
+Aguja Hipodermica 20x1.5,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Extraccion,26.79,16.11,Comprar,IVA,IVA
+Aguja Hipodermica 21x 1.5,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Extraccion,26.79,12.42,Comprar,IVA,IVA
+Aguja Hipodermica 22x1 100U,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Extraccion,26.79,15.18,Comprar,IVA,IVA
+Aguja Hipodermica 22 x 1.5,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Extraccion,26.79,15.72,Comprar,IVA,IVA
+Aguja Hipodermica 23 x 1,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Extraccion,26.79,15.03,Comprar,IVA,IVA
+Aguja Hipodermica 23x1.5,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Extraccion,26.79,15.18,Comprar,IVA,IVA
+Aguja Hipodermica 24x1,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Extraccion,26.79,16.07,Comprar,IVA,IVA
+Jeringa 10cc 21x1.5 100U,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Extraccion,84.82,43.83,Comprar,IVA,IVA
+Jeringa 10cc 22x1.5 100U,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Extraccion,84.82,45.43,Comprar,IVA,IVA
+Jeringa 1cc 30x13mm 100U,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Extraccion,62.5,39.44,Comprar,IVA,IVA
+Jeringa 20cc 21x1.5 50U,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Extraccion,80.36,50,Comprar,IVA,IVA
+Jeringa 3cc 21x1.5 100U,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Extraccion,53.57,27.69,Comprar,IVA,IVA
+Jeringa 3cc 22x1.5 100U,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Extraccion,53.57,27.3,Comprar,IVA,IVA
+Jeringa 3cc 23x1 100U,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Extraccion,53.57,25.66,Comprar,IVA,IVA
+Jeringa 50cc 25U,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Extraccion,89.29,55.8,Comprar,IVA,IVA
+Jeringa 5cc 21x1.5 100U,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Extraccion,53.57,27.71,Comprar,IVA,IVA
+Jeringa 5cc 22x1.5 100U,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Extraccion,53.57,30.75,Comprar,IVA,IVA
+Jeringa 5cc 23x1.5 100U,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Extraccion,53.57,26.88,Comprar,IVA,IVA
+Lanceta BD Azul 1.5mmx2mm,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Extraccion,3.35,1.97,Comprar,IVA,IVA
+Lanceta BD Rosada 1.8mmx21G,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Extraccion,3.35,2.1,Comprar,IVA,IVA
+Lanceta Metalica 200U,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Extraccion,49.11,27.71,Comprar,IVA,IVA
+Lanceta Plastica 100U,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Extraccion,31.25,18.75,Comprar,IVA,IVA
+Torniquete Adulto,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Extraccion,120.54,71.73,Comprar,IVA,IVA
+Torniquete Pediatrico,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Extraccion,120.54,71.43,Comprar,IVA,IVA
+Adaptador Simple Bolsa de 10,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Extraccion al Vacio,8.93,3.82,Comprar,IVA,IVA
+Aguja Multiple 21x1.5,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Extraccion al Vacio,89.29,58.04,Comprar,IVA,IVA
+Aguja Multiple Eclipse 21x1.5 48U,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Extraccion al Vacio,53.57,34.23,Comprar,IVA,IVA
+Aguja Multiple Eclipse 22x1.5 48U,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Extraccion al Vacio,53.57,34.18,Comprar,IVA,IVA
+Minicollect EDTA 0.5ml 50 Unidades,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Extraccion al Vacio,100.45,59.95,Comprar,IVA,IVA
+Minicollect Rojo 1ml 50 Unidades,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Extraccion al Vacio,100.45,60.27,Comprar,IVA,IVA
+Pericraneal 23x3/4 BD,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Extraccion al Vacio,7.14,4.46,Comprar,IVA,IVA
+Tubo Amarillo 3.5ml P 100U,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Extraccion al Vacio,138.39,89.29,Comprar,IVA,IVA
+Tubo Amarillo 5ml P 100U,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Extraccion al Vacio,138.39,74.78,Comprar,IVA,IVA
+Tubo Celeste 2ml 50U,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Extraccion al Vacio,79.46,47.32,Comprar,IVA,IVA
+Tubo Morado 3ml P 100U,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Extraccion al Vacio,87.5,53.31,Comprar,IVA,IVA
+Tubo Morado 4ml P 100U,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Extraccion al Vacio,92.86,53.18,Comprar,IVA,IVA
+Tubo Rojo 10ml P 100U,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Extraccion al Vacio,133.93,83.98,Comprar,IVA,IVA
+Tubo Rojo 5ml P 100U,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Extraccion al Vacio,102.68,65.75,Comprar,IVA,IVA
+Albumina Bovina 22% 10ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Hematología,80.36,53.52,Comprar,IVA,IVA
+Anti A 10ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Hematología,49.11,23.18,Comprar,IVA,IVA
+Anti B 10ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Hematología,49.11,23.19,Comprar,IVA,IVA
+Anti D (Rh) 10ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Hematología,87.5,57.97,Comprar,IVA,IVA
+Anti Globulina Humana 10ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Hematología,98.21,53.2,Comprar,IVA,IVA
+Control Hematologico 3x3ml,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Hematología,937.5,602.68,Comprar,IVA,IVA
+Detergente Hematologico 10 Litros CDS,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Hematología,803.57,535.71,Comprar,IVA,IVA
+Detergente Hematologico 1 Litro,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Hematología,174.11,80.36,Comprar,IVA,IVA
+Diluyente Hematologico 20 Litros CDS,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Hematología,709.82,344.16,Comprar,IVA,IVA
+Diluyente Hematologico 20 Litros Rayto,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Hematología,709.82,352.68,Comprar,IVA,IVA
+Hemoglobina Total 2x25ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Hematología,129.46,80.36,Comprar,IVA,IVA
+Lisante Hematologico 1L CDS,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Hematología,803.57,535.71,Comprar,IVA,IVA
+Lisante Hematologico 1 Litro,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Hematología,870.54,491.07,Comprar,IVA,IVA
+NT-proBNP Getein,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Inmunología,80.36,53.57,Comprar,IVA,IVA
+PSA Total Getein,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Inmunología,31.25,20.54,Comprar,IVA,IVA
+T3 Getein,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Inmunología,22.32,13.68,Comprar,IVA,IVA
+T4 Getein,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Inmunología,22.32,14.06,Comprar,IVA,IVA
+TSH Getein,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Inmunología,22.32,14.06,Comprar,IVA,IVA
+Boquilla Plastica,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,13.39,8.93,Comprar,IVA,IVA
+Choconoy #2,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,12.5,7.82,Comprar,IVA,IVA
+Choconoy #3,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,10.71,6.06,Comprar,IVA,IVA
+Choconoy #4,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,13.39,8.88,Comprar,IVA,IVA
+Contador Tally,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,89.29,57.21,Comprar,IVA,IVA
+Cubeta Coagulometro,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,2.54,1.42,Comprar,IVA,IVA
+Cubetas Semimicro 100U,Caja,Caja,TRUE,TRUE,FALSE,Almacenable,Instrumentos,169.64,92.86,Comprar,IVA,IVA
+Gradilla 48 Tubos Acero Inoxidable,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,160.71,88.72,Comprar,IVA,IVA
+Gradilla Microtubos,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,133.93,77.5,Comprar,IVA,IVA
+Gradilla Tip Amarillo BRAND,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,62.5,37.5,Comprar,IVA,IVA
+Gradilla Tip Azul BRAND,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,71.43,43.75,Comprar,IVA,IVA
+Gradilla Tips Azules,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,93.75,44.64,Comprar,IVA,IVA
+Gradilla Tubos (10ml) Plastica,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,111.61,60.62,Comprar,IVA,IVA
+Gradilla Tubos (5ml) Plastica,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,116.07,70.37,Comprar,IVA,IVA
+Mueble Organizador,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,2232.14,1315.79,Comprar,IVA,IVA
+Pipeta Volumen Variable 100ul-1000ul Stanbio,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,1116.07,492.19,Comprar,IVA,IVA
+Pipeta Volumen Variable 20ul-200ul Stanbio,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,1116.07,492.19,Comprar,IVA,IVA
+Pipeta Volumen Variable 20ul a 200ul BRAND Intercambio,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,1669.64,1107.14,Comprar,IVA,IVA
+Pipeta Volumen Variable 5ul-50ul Stanbio,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,1116.07,492.19,Comprar,IVA,IVA
+Pipeta Volumen Variable 5ul a 50ul BRAND Intercambio,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,1669.64,1087.31,Comprar,IVA,IVA
+Pipetor Verde 0-10ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,111.61,57.14,Comprar,IVA,IVA
+Pizeta 100ml Transparente,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,35.71,23.21,Comprar,IVA,IVA
+Pizeta 250ml Transparente,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,53.57,30.55,Comprar,IVA,IVA
+Pizeta 500 ml Transparente,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,58.04,35.72,Comprar,IVA,IVA
+Soporte para 6 Pipetas Brand,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,785.71,526.79,Comprar,IVA,IVA
+Soporte para Pipeta Westerngreen,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,558.04,334.82,Comprar,IVA,IVA
+Soporte Pipeta Volumen Variable,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,156.25,66.96,Comprar,IVA,IVA
+Soporte Pipeta Volumen Variable Azul,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,178.57,89.29,Comprar,IVA,IVA
+Termometro Digital,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,129.46,58.04,Comprar,IVA,IVA
+Timer Digital 1 Tiempo,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,93.75,52.89,Comprar,IVA,IVA
+Timer Digital 3 Tiempos,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,303.57,151.79,Comprar,IVA,IVA
+Timer Digital 4 Tiempos,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Instrumentos,294.64,176.79,Comprar,IVA,IVA
+Chikungunya IgM Aria,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Prueba Rápida,42.86,21.87,Comprar,IVA,IVA
+Dengue Duo NS1,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Prueba Rápida,41.07,24.97,Comprar,IVA,IVA
+Dengue IgG/IgM Aria,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Prueba Rápida,26.79,12.5,Comprar,IVA,IVA
+FOB Intec,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Prueba Rápida,13.39,6.54,Comprar,IVA,IVA
+hCG 10 iU/l Intec,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Prueba Rápida,3.57,1.73,Comprar,IVA,IVA
+Hepatitis A IGM Aria,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Prueba Rápida,31.25,7.22,Comprar,IVA,IVA
+Hepatitis B Intec,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Prueba Rápida,9.82,4.43,Comprar,IVA,IVA
+Hepatitis C Intec,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Prueba Rápida,14.29,7.76,Comprar,IVA,IVA
+HIV 1+2 S/P/WB Intec,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Prueba Rápida,10.71,5.47,Comprar,IVA,IVA
+H. Pylori Ag Heces Aria,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Prueba Rápida,22.32,11.15,Comprar,IVA,IVA
+H. Pylori Ag Heces Intec,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Prueba Rápida,25,11.11,Comprar,IVA,IVA
+H. Pylori Suero Intec,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Prueba Rápida,13.39,6.33,Comprar,IVA,IVA
+Malaria Intec,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Prueba Rápida,26.79,12.26,Comprar,IVA,IVA
+Mycoplasma 30D,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Prueba Rápida,3348.21,2287.95,Comprar,IVA,IVA
+Panel Drogas 10 Parametros,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Prueba Rápida,98.21,49.11,Comprar,IVA,IVA
+PSA Intec,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Prueba Rápida,14.29,8.25,Comprar,IVA,IVA
+Rota Adeno Virus Aria,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Prueba Rápida,19.64,10.71,Comprar,IVA,IVA
+Salmonella Typhi IgG/IgM,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Prueba Rápida,13.39,6.03,Comprar,IVA,IVA
+Sifilis Intec,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Prueba Rápida,10.71,5.3,Comprar,IVA,IVA
+Tira de Orina 10 Parametros 100D Stanbio,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Prueba Rápida,120.54,75.83,Comprar,IVA,IVA
+Torch IgG/IgM Aria,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Prueba Rápida,53.57,24.01,Comprar,IVA,IVA
+Toxo Plasma IgG/IgM Intec,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Prueba Rápida,24.11,12.47,Comprar,IVA,IVA
+Troponina I Intec,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Prueba Rápida,21.43,12.5,Comprar,IVA,IVA
+Acido Urico 250ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,312.5,211.24,Comprar,IVA,IVA
+Acido Urico 4x30ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,196.43,128.12,Comprar,IVA,IVA
+Acido Urico 5x20ml Diasys,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,196.43,123.55,Comprar,IVA,IVA
+Albumina 5x25 ml Diasys,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,160.71,101.65,Comprar,IVA,IVA
+Amilasa 30ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,200.89,133.78,Comprar,IVA,IVA
+Bilirrubina TyD 2x100ml,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,258.93,168.96,Comprar,IVA,IVA
+Calcio 5x25ml Diasys,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,223.21,136.68,Comprar,IVA,IVA
+CK MB 3.5ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,58.04,36.86,Comprar,IVA,IVA
+CK Total 30ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,205.36,127.37,Comprar,IVA,IVA
+Colesterol 250ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,285.71,175.69,Comprar,IVA,IVA
+Colesterol 4x30ml,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,201.79,125.46,Comprar,IVA,IVA
+Creatinina 500ml,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,491.07,324.49,Comprar,IVA,IVA
+Creatinina 5x25ml Diasys,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,165.18,101.65,Comprar,IVA,IVA
+Fosfatasa Alcalina 4x30ml,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,232.14,135.94,Comprar,IVA,IVA
+Fosfatasa Alcalina Diasys,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,178.57,115.71,Comprar,IVA,IVA
+Gama GT 4x30ml,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,339.29,215.62,Comprar,IVA,IVA
+Glicocilada HbAIc Getein,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,21.43,12.5,Comprar,IVA,IVA
+Glucosa 250ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,136.61,88.94,Comprar,IVA,IVA
+HDL Colesterol 20ml Precipitante,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,200.89,93.75,Comprar,IVA,IVA
+Hemoglobina Glicocilada 50D,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,1044.64,716.41,Comprar,IVA,IVA
+Hierro 110D,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,580.36,375,Comprar,IVA,IVA
+LDH 4x30ml,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,290.18,187.5,Comprar,IVA,IVA
+Nitrogeno de Urea 5x20ml Diasys,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,223.21,131.46,Comprar,IVA,IVA
+Potasio 50D,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,312.5,187.21,Comprar,IVA,IVA
+Proteinas LCR 250ml,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,468.75,309.37,Comprar,IVA,IVA
+Proteinas Totales Suero 250ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,120.54,70.31,Comprar,IVA,IVA
+Ser-T-Fy II 5ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,84.82,51.57,Comprar,IVA,IVA
+Sodio 50D,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,446.43,292.44,Comprar,IVA,IVA
+TGO (ASAT) 4x30ml Stanbio,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,232.14,147.19,Comprar,IVA,IVA
+TGP (ALAT) 4x30ml Stanbio,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,245.54,154.69,Comprar,IVA,IVA
+Triglicerido 250ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,468.75,307.78,Comprar,IVA,IVA
+Triglicerido 4x30ml,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,285.71,186.97,Comprar,IVA,IVA
+Urea Nitrogeno BUN 4x30ml,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Química Clínica,339.29,225.63,Comprar,IVA,IVA
+Bateria Urit 2900 3 voltios,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,133.93,42.86,Comprar,IVA,IVA
+Bombilla Para Microscopio 6v20w,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,98.21,39.41,Comprar,IVA,IVA
+Camara Limpieza de Aguja Urit 2900 Plus,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,267.86,160.71,Comprar,IVA,IVA
+Carbon Centrifuga Gemmy (2U),Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,160.71,80.36,Comprar,IVA,IVA
+Carbon Microcentrifuga Gemmy 2U,Paquete,Paquete,TRUE,TRUE,FALSE,Almacenable,Repuesto,160.71,80.36,Comprar,IVA,IVA
+Celda de Flujo Rayto 9200 y 1904,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,1339.29,535.71,Comprar,IVA,IVA
+Cincho Acarreo X Urit 2900 Plus (170mm metalico),Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,267.86,120.54,Comprar,IVA,IVA
+Cincho Acarreo X Urit 2900 Plus (193mm),Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,267.86,220.98,Comprar,IVA,IVA
+Cincho Acarreo X Urit 2900 Plus (196mm plastico),Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,267.86,120.54,Comprar,IVA,IVA
+Cincho Acarreo Y Urit 2900 Plus (132mm plastico),Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,267.86,120.54,Comprar,IVA,IVA
+Conectores de plastico para mangueras Urit 2900,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,44.64,8.93,Comprar,IVA,IVA
+Copa Rojos Rayto 7600,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,4285.71,2857.14,Comprar,IVA,IVA
+Deposito plastico para desecho Urit 2900,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,133.93,75,Comprar,IVA,IVA
+Empaque Diluyente 1ra Gen. Urit 2900 Plus,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,178.57,53.57,Comprar,IVA,IVA
+Empaque Lisante 1ra Gen. Urit 2900 Plus,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,178.57,32.14,Comprar,IVA,IVA
+Empaques Rayto Hema. Kit Competo,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,1250,758.93,Comprar,IVA,IVA
+Filtro de Aire Urit 2900 Plus,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,98.21,53.57,Comprar,IVA,IVA
+Filtro para Microscopio,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,178.57,26.79,Comprar,IVA,IVA
+Fuente de Poder (SMPS) Urit 2900 Plus,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,1160.71,642.86,Comprar,IVA,IVA
+Fuente de Poder Urit 810 V. 1.0,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,1071.43,482.14,Comprar,IVA,IVA
+Jeringa Diluyente Urit 2900 Plus,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,1875,1071.43,Comprar,IVA,IVA
+Kit Mangueras Rayto 9200 y 1904,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Repuesto,803.57,372.03,Comprar,IVA,IVA
+Lampara Halogeno 6V 10W Urit 810,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,625,321.43,Comprar,IVA,IVA
+Lampara Halogeno 6V 10W Urit 880,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,758.93,424.11,Comprar,IVA,IVA
+Lampara Lector Elisa,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,803.57,222.32,Comprar,IVA,IVA
+Lampara Rayto 240,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,3571.43,1256.44,Comprar,IVA,IVA
+Lampara Rayto 9200 y 1904,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,803.57,491.07,Comprar,IVA,IVA
+Manguera #1 Rayto 7200 y 7600,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,89.29,22.33,Comprar,IVA,IVA
+Manguera #2 Rayto 7200 y 7600,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,89.29,22.33,Comprar,IVA,IVA
+Manguera #3 Rayto 7200 y 7600,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,89.29,22.33,Comprar,IVA,IVA
+Manguera #4 Rayto 7200 y 7600,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,89.29,22.33,Comprar,IVA,IVA
+Manguera aspiracion muestra bucle Urit 2900 (1cm),Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,4.46,2.68,Comprar,IVA,IVA
+Manguera de 1/16 x 1/32 Urit 2900 (1cm),Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,4.46,2.68,Comprar,IVA,IVA
+Manguera de 2.0mm x 0.90mm Urit 2900 (1cm),Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,4.46,2.68,Comprar,IVA,IVA
+Manguera de 4 x 2.5mm polyuretano Urit 2900 (1cm),Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,4.46,2.68,Comprar,IVA,IVA
+Manguera de silicon diametro grande Urit 2900 (1cm),Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,4.46,2.68,Comprar,IVA,IVA
+Manguera para muestra tygin diametro grande Urit 2900 (1cm),Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,4.46,2.68,Comprar,IVA,IVA
+Manguera silicon para muestra con visel Urit 2900 (1cm),Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,4.46,2.68,Comprar,IVA,IVA
+Manguera silicon para muestra diametro p. Urit 2900 (1cm),Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,4.46,2.68,Comprar,IVA,IVA
+Memoria Flash Equipo Hematologia,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,267.86,150,Comprar,IVA,IVA
+Micro Jeringa Urit 2900 Plus (muestra),Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,3392.86,1919.65,Comprar,IVA,IVA
+Micro Jeringa Urit 3000 (muestra),Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,4017.86,2406.25,Comprar,IVA,IVA
+Objetivo 10x,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,401.79,178.57,Comprar,IVA,IVA
+Objetivo 4x,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,401.79,178.57,Comprar,IVA,IVA
+Oculares Microscopio,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,401.79,178.57,Comprar,IVA,IVA
+Peltier Rayto 9200 y 1904,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,1339.29,57.4,Comprar,IVA,IVA
+Set Mangueras Urit 810,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,758.93,339.28,Comprar,IVA,IVA
+Tajeta Conteo Urit 2900 Plus,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,1071.43,535.71,Comprar,IVA,IVA
+Tarjeta Amplificadora Analoga Urit 2900,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,4017.86,2406.25,Comprar,IVA,IVA
+Tarjeta de Pantalla e Impresora Urit 810 V. Ingles,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,6428.57,4285.71,Comprar,IVA,IVA
+Tarjeta Madre Urit 810 V. 1.30,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,5803.57,3857.14,Comprar,IVA,IVA
+Teclado Rayto RT 9200,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,1785.71,1250,Comprar,IVA,IVA
+Teclado Urit 810,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,1071.43,471.43,Comprar,IVA,IVA
+Valvula 2 Vias Rayto 7200 y 7600,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,2678.57,1507.72,Comprar,IVA,IVA
+Valvula 2 Vias Urit 2900 Plus,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,1428.57,803.57,Comprar,IVA,IVA
+Valvula 3 Vias Rayto 7200 y 7600,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,2678.57,1130.79,Comprar,IVA,IVA
+Valvula 3 Vias Urit 2900 Plus,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,1964.29,1071.43,Comprar,IVA,IVA
+Ventilador Celda de Flujo Rayto 9200 y 1904,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,312.5,66.96,Comprar,IVA,IVA
+Ventilador Urit 810,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Repuesto,178.57,58.93,Comprar,IVA,IVA
+Antigeno Febril A,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Serología,71.43,44.05,Comprar,IVA,IVA
+Antigeno Febril B,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Serología,71.43,44.05,Comprar,IVA,IVA
+Antigeno Febril H Plasmatec,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Serología,71.43,43.83,Comprar,IVA,IVA
+Antigeno Febril O Plasmatec,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Serología,71.43,44.06,Comprar,IVA,IVA
+ASO 100D,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Serología,294.64,182.31,Comprar,IVA,IVA
+ASO 50D,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Serología,196.43,121.11,Comprar,IVA,IVA
+Fana Celulas LE 50D Control +,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Serología,290.18,188.88,Comprar,IVA,IVA
+FR 100D,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Serología,241.07,149.1,Comprar,IVA,IVA
+FR 50D,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Serología,151.79,93.71,Comprar,IVA,IVA
+Monotest Avitex IM 50D,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Serología,232.14,152.03,Comprar,IVA,IVA
+PCR 100D,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Serología,241.07,148.2,Comprar,IVA,IVA
+PCR 50D,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Serología,160.71,97.75,Comprar,IVA,IVA
+RPR 100D con Controles,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Serología,147.32,88.98,Comprar,IVA,IVA
+RPR 500D con Controles,Kit,Kit,TRUE,TRUE,FALSE,Almacenable,Serología,491.07,315.14,Comprar,IVA,IVA
+VDRL 450D con Control,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Serología,133.93,74.16,Comprar,IVA,IVA
+Aceite de Inmersion 100ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,151.79,92.8,Comprar,IVA,IVA
+Acetona Galon,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,116.07,71.43,Comprar,IVA,IVA
+Alcohol 70% Galon,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,66.96,43.77,Comprar,IVA,IVA
+Alcohol 95% Etilico Galon,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,66.96,41.52,Comprar,IVA,IVA
+EDTA 100ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,96.43,66.95,Comprar,IVA,IVA
+Extran 2.5L Alcalino,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,491.07,324.02,Comprar,IVA,IVA
+Extran 2.5L Neutro,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,535.71,346.43,Comprar,IVA,IVA
+Formol Galon,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,80.36,46.43,Comprar,IVA,IVA
+Gel Lubricante,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,16.96,8.38,Comprar,IVA,IVA
+Giemsa 250ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,125,55.36,Comprar,IVA,IVA
+Glucosa 100gr Monohidratada,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,11.61,6.79,Comprar,IVA,IVA
+Glucosa 100gr Tolerancia,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,31.25,20.4,Comprar,IVA,IVA
+Glucosa 50gr Monohidratada,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,7.14,4.2,Comprar,IVA,IVA
+Glucosa 75gr Monohidratada,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,8.93,5,Comprar,IVA,IVA
+Glucosa 75gr Tolerancia,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,28.57,14.49,Comprar,IVA,IVA
+Gram 1 Cristal Violeta 250ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,93.75,62.5,Comprar,IVA,IVA
+Gram 2 Lugol 250ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,93.75,62.5,Comprar,IVA,IVA
+Gram 3 Alcohol Acetona 250ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,93.75,62.5,Comprar,IVA,IVA
+Gram 4 Safranina 250ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,93.75,62.5,Comprar,IVA,IVA
+Hibitane Clorhexidina 5% Galon,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,267.86,133.93,Comprar,IVA,IVA
+KOH Con Tinta 10ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,35.71,22.2,Comprar,IVA,IVA
+KOH Sin Tinta 10ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,35.71,14.36,Comprar,IVA,IVA
+Kovacks 10ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,53.57,32.14,Comprar,IVA,IVA
+Liquido Globulos Blancos 250ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,102.68,66.96,Comprar,IVA,IVA
+Liquido Globulos Rojos 250ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,102.68,66.96,Comprar,IVA,IVA
+Liquido Plaquetas 100ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,102.68,66.96,Comprar,IVA,IVA
+Lugol Fuerte 250ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,102.68,66.96,Comprar,IVA,IVA
+Metanol (Alcohol de Quemar) Galon,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,47.32,31.25,Comprar,IVA,IVA
+Solucion Benedict Cualitativa 100ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,102.68,66.96,Comprar,IVA,IVA
+Wright 250ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,102.68,66.29,Comprar,IVA,IVA
+Ziehl Neelsen 1 Fucsina Fenicada 250ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,84.82,55.36,Comprar,IVA,IVA
+Ziehl Neelsen 2 Alcohol Acido 250ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,84.82,55.36,Comprar,IVA,IVA
+Ziehl Neelsen 3 Azul de Metileno 250ml,Unit,Unit,TRUE,TRUE,FALSE,Almacenable,Soluciones,84.82,55.36,Comprar,IVA,IVA
+Cargo Expreso 1,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Flete,22.32,,,IVA,IVA
+Cargo Expreso 2,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Flete,35.71,,,IVA,IVA
+Mantenimiento Equipo Laboratorio,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Mantenimiento,892.86,,,IVA,IVA
+Mantenimiento Equipo Hematologia,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Mantenimiento,1071.43,,,IVA,IVA
+Instalacion Software Rayto 1904 - 9200 - 9600,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Mantenimiento,446.43,,,IVA,IVA
+Mantenimiento Pipeta Automatica,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Mantenimiento,178.57,,,IVA,IVA
+Mantenimiento Centrifuga,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Mantenimiento,178.57,,,IVA,IVA
+Mantenimiento Microscopio,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Mantenimiento,312.5,,,IVA,IVA
+Mantenimiento Micro Centrifuga,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Mantenimiento,312.5,,,IVA,IVA
+Mantenimiento Rotador,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Mantenimiento,312.5,,,IVA,IVA
+Mantenimiento Equipo Quimica,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Mantenimiento,522.32,,,IVA,IVA
+Calibracion Equipo Quimica,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Mantenimiento,491.07,,,IVA,IVA
+Calibracion Equipo Hematologia,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Mantenimiento,625,,,IVA,IVA
+Des taponamiento Equipo Quimica,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Mantenimiento,133.93,,,IVA,IVA
+Reparacion,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Mantenimiento,133.93,,,IVA,IVA
+Mantenimiento Quolab,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Mantenimiento,312.5,,,IVA,IVA
+Mantenimiento Equipo Elisas,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Mantenimiento,446.43,,,IVA,IVA
+Cargo por Financiamiento,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Servicio Varios,1785.71,,,IVA,IVA
+Capacitacion,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Servicio Varios,1339.29,,,IVA,IVA
+Cargo Expreso 3,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Flete,0,,,IVA,IVA
+Mantenimiento Equipo Coagulacion,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Mantenimiento,446.43,,,IVA,IVA
+Diagnostico Equipo,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Mantenimiento,267.86,,,IVA,IVA
+Servicio de Transporte,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Flete,401.79,,,IVA,IVA
+Recargo por cheque rechazado,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Servicio Varios,44.64,,,IVA,IVA
+Guatex 1,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Flete,22.32,,,IVA,IVA
+Guatex 2,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Flete,35.71,,,IVA,IVA
+Guatex 3,unidad,unidad,TRUE,FALSE,FALSE,Servicio,Flete,0,,,IVA,IVA
